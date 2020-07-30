@@ -201,6 +201,11 @@ https://bisq.io https://bisq.network 301
 /feed /blog/feed.atom 301
 
 
+# intra-site redirects
+
+/community /#community
+
+
 # misc
 /team / 302
 
