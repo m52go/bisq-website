@@ -7,7 +7,6 @@ main_nav:
   gettingStarted: Erste Schritte # main nav link: please be as short as possible
   bisqDAO: Bisq DAO # main nav link: please be as short as possible
   statistics: Statistiken # main nav link: please be as short as possible
-  faq: FAQ # main nav link: please be as short as possible
   markets: Märkte # main nav link: please be as short as possible
 
 footer:
